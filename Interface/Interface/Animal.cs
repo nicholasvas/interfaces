@@ -8,7 +8,7 @@ namespace Interface
 {
     internal abstract class Animal
     {
-        float Weight { get; set; }
+       public float Weight { get; set; }
 
      public Animal(float weight)
         {

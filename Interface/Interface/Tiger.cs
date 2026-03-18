@@ -15,7 +15,7 @@ namespace Interface
 
         public void Move()
         {
-            Console.WriteLine("this tiger is running");
+            Console.WriteLine("this tiger is moving");
         }
 
     
